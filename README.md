@@ -1,6 +1,6 @@
-# StageRos2-Wander-Robot
-![Descripción de la imagen](stage1.png)
-# Instrucciones para ejecutar el proyecto
+   # StageRos2-Wander-Robot
+![Stage Ros Wander Robot](stage1.png)
+# Instructions to Run the Project
 
 1. **Run the Stage Ros2**:
    ros2 launch stage_ros2 stage.launch.py world:=cave enforce_prefixes:=false one_tf_tree:=true
